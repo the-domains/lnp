@@ -1,0 +1,14 @@
+layout_spectrum: 0.1452701
+typography_spectrum: 0.452841
+color:
+  saturation: 0.9731207
+  lightness: 0.7662035
+  brandStrength: 0.3103024
+  rhythmicContrast: 0.02325547
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: LNP
